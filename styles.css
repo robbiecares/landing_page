@@ -169,6 +169,26 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 25px
+    padding: 25px;
+
     
+}
+
+.footer ul {
+    display: flex;
+    list-style-type: none;
+    gap: 24px;
+
+
+}
+
+.footer-link a{
+    text-decoration: underline;
+    font-size: 18px;
+    color: #E5E7EB;
+    
+    
+
+
+
 }
